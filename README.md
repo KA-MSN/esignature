@@ -1,6 +1,19 @@
-# esignature
-email signature
+# KAMSN TECHNOLOGY  Email Signature Template
 
+Welcome to the **KAMSN TECHNOLOGY  Email Signature Template** repository! This repository contains a professionally designed HTML template to be used as your official email signature for company communications. The template is responsive, ensuring it looks great across different devices and email clients. It adheres to branding guidelines, providing consistency in how your emails are presented to clients and stakeholders.
+
+## Features
+
+- Responsive and mobile-friendly design
+- Easily customizable with your name, title, and contact details
+- Compatible with all major email providers, including Gmail and Outlook
+- Adheres to the company’s brand guidelines for a professional look
+
+## How to Use
+
+Follow the instructions in the section **User Guides** of this `README` file to quickly set up your new email signature.
+
+![Company Logo](assets/esignature.png)
 
 ## User Guide: Add a User Signature in Gmail
 
